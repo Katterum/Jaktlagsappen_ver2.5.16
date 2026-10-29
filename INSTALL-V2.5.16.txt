@@ -1,0 +1,13 @@
+KATTERUMS JAKTLAG v2.5.16 - JAKTER HAMTAS NAR VYN OPPNAS
+
+Rattning:
+- Genomforda jakter hamtas direkt fran Supabase varje gang vyn oppnas.
+- Molnets hunts-tabell ar master.
+- Datorns lokala jakter skickas inte innan hamtningen.
+- Huvudet visar faktisk synkstatus och antal hamtade jakter.
+- Vid fel visas Molnfel i stallet for att dolja problemet.
+
+Skyddat/oforandrat:
+- Observationsstatistik fran v2.5.12, kartgrans och karta/satellit.
+- Observationer, fällt vilt, pass, login, roller och navigation.
+- Ingen SQL ska koras.
